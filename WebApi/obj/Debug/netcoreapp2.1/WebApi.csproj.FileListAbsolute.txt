@@ -1,0 +1,14 @@
+C:\Users\xuejian\source\repos\Asp.Net Core\WebApi\bin\Debug\netcoreapp2.1\WebApi.deps.json
+C:\Users\xuejian\source\repos\Asp.Net Core\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.json
+C:\Users\xuejian\source\repos\Asp.Net Core\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
+C:\Users\xuejian\source\repos\Asp.Net Core\WebApi\bin\Debug\netcoreapp2.1\WebApi.dll
+C:\Users\xuejian\source\repos\Asp.Net Core\WebApi\bin\Debug\netcoreapp2.1\WebApi.pdb
+C:\Users\xuejian\source\repos\Asp.Net Core\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+C:\Users\xuejian\source\repos\Asp.Net Core\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+C:\Users\xuejian\source\repos\Asp.Net Core\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
+C:\Users\xuejian\source\repos\Asp.Net Core\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb
+C:\Users\xuejian\source\repos\Asp.Net Core\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache

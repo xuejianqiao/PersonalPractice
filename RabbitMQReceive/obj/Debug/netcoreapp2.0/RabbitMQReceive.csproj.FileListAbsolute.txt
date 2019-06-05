@@ -1,0 +1,11 @@
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceive\bin\Debug\netcoreapp2.0\RabbitMQReceive.deps.json
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceive\bin\Debug\netcoreapp2.0\RabbitMQReceive.runtimeconfig.json
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceive\bin\Debug\netcoreapp2.0\RabbitMQReceive.runtimeconfig.dev.json
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceive\bin\Debug\netcoreapp2.0\RabbitMQReceive.dll
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceive\obj\Debug\netcoreapp2.0\RabbitMQReceive.csproj.CoreCompileInputs.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceive\obj\Debug\netcoreapp2.0\RabbitMQReceive.AssemblyInfoInputs.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceive\obj\Debug\netcoreapp2.0\RabbitMQReceive.AssemblyInfo.cs
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceive\bin\Debug\netcoreapp2.0\RabbitMQReceive.pdb
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceive\obj\Debug\netcoreapp2.0\RabbitMQReceive.dll
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceive\obj\Debug\netcoreapp2.0\RabbitMQReceive.pdb
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceive\obj\Debug\netcoreapp2.0\RabbitMQReceive.csprojAssemblyReference.cache

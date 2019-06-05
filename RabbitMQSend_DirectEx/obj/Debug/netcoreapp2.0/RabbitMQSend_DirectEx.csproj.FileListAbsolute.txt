@@ -1,0 +1,11 @@
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_DirectEx\bin\Debug\netcoreapp2.0\RabbitMQSend_DirectEx.deps.json
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_DirectEx\bin\Debug\netcoreapp2.0\RabbitMQSend_DirectEx.runtimeconfig.json
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_DirectEx\bin\Debug\netcoreapp2.0\RabbitMQSend_DirectEx.runtimeconfig.dev.json
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_DirectEx\bin\Debug\netcoreapp2.0\RabbitMQSend_DirectEx.dll
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_DirectEx\obj\Debug\netcoreapp2.0\RabbitMQSend_DirectEx.csproj.CoreCompileInputs.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_DirectEx\obj\Debug\netcoreapp2.0\RabbitMQSend_DirectEx.AssemblyInfoInputs.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_DirectEx\obj\Debug\netcoreapp2.0\RabbitMQSend_DirectEx.AssemblyInfo.cs
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_DirectEx\bin\Debug\netcoreapp2.0\RabbitMQSend_DirectEx.pdb
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_DirectEx\obj\Debug\netcoreapp2.0\RabbitMQSend_DirectEx.dll
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_DirectEx\obj\Debug\netcoreapp2.0\RabbitMQSend_DirectEx.pdb
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_DirectEx\obj\Debug\netcoreapp2.0\RabbitMQSend_DirectEx.csprojAssemblyReference.cache

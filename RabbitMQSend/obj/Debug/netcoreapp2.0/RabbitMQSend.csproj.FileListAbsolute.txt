@@ -1,0 +1,11 @@
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend\bin\Debug\netcoreapp2.0\RabbitMQSend.deps.json
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend\bin\Debug\netcoreapp2.0\RabbitMQSend.runtimeconfig.json
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend\bin\Debug\netcoreapp2.0\RabbitMQSend.runtimeconfig.dev.json
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend\bin\Debug\netcoreapp2.0\RabbitMQSend.dll
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend\obj\Debug\netcoreapp2.0\RabbitMQSend.csproj.CoreCompileInputs.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend\obj\Debug\netcoreapp2.0\RabbitMQSend.AssemblyInfoInputs.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend\obj\Debug\netcoreapp2.0\RabbitMQSend.AssemblyInfo.cs
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend\bin\Debug\netcoreapp2.0\RabbitMQSend.pdb
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend\obj\Debug\netcoreapp2.0\RabbitMQSend.dll
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend\obj\Debug\netcoreapp2.0\RabbitMQSend.pdb
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend\obj\Debug\netcoreapp2.0\RabbitMQSend.csprojAssemblyReference.cache

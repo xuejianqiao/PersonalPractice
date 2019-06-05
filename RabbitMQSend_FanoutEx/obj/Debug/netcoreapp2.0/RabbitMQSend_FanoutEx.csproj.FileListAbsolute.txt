@@ -1,0 +1,11 @@
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_FanoutEx\bin\Debug\netcoreapp2.0\RabbitMQSend_FanoutEx.deps.json
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_FanoutEx\bin\Debug\netcoreapp2.0\RabbitMQSend_FanoutEx.runtimeconfig.json
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_FanoutEx\bin\Debug\netcoreapp2.0\RabbitMQSend_FanoutEx.runtimeconfig.dev.json
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_FanoutEx\bin\Debug\netcoreapp2.0\RabbitMQSend_FanoutEx.dll
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_FanoutEx\obj\Debug\netcoreapp2.0\RabbitMQSend_FanoutEx.csproj.CoreCompileInputs.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_FanoutEx\obj\Debug\netcoreapp2.0\RabbitMQSend_FanoutEx.AssemblyInfoInputs.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_FanoutEx\obj\Debug\netcoreapp2.0\RabbitMQSend_FanoutEx.AssemblyInfo.cs
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_FanoutEx\bin\Debug\netcoreapp2.0\RabbitMQSend_FanoutEx.pdb
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_FanoutEx\obj\Debug\netcoreapp2.0\RabbitMQSend_FanoutEx.dll
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_FanoutEx\obj\Debug\netcoreapp2.0\RabbitMQSend_FanoutEx.pdb
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_FanoutEx\obj\Debug\netcoreapp2.0\RabbitMQSend_FanoutEx.csprojAssemblyReference.cache

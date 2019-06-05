@@ -1,0 +1,11 @@
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceiveExt\bin\Debug\netcoreapp2.1\RabbitMQReceiveExt.deps.json
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceiveExt\bin\Debug\netcoreapp2.1\RabbitMQReceiveExt.runtimeconfig.json
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceiveExt\bin\Debug\netcoreapp2.1\RabbitMQReceiveExt.runtimeconfig.dev.json
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceiveExt\bin\Debug\netcoreapp2.1\RabbitMQReceiveExt.dll
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceiveExt\obj\Debug\netcoreapp2.1\RabbitMQReceiveExt.csproj.CoreCompileInputs.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceiveExt\obj\Debug\netcoreapp2.1\RabbitMQReceiveExt.AssemblyInfoInputs.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceiveExt\obj\Debug\netcoreapp2.1\RabbitMQReceiveExt.AssemblyInfo.cs
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceiveExt\bin\Debug\netcoreapp2.1\RabbitMQReceiveExt.pdb
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceiveExt\obj\Debug\netcoreapp2.1\RabbitMQReceiveExt.csprojAssemblyReference.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceiveExt\obj\Debug\netcoreapp2.1\RabbitMQReceiveExt.dll
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceiveExt\obj\Debug\netcoreapp2.1\RabbitMQReceiveExt.pdb

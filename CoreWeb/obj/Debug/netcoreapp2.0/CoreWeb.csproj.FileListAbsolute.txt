@@ -1,0 +1,11 @@
+c:\users\xuejian\source\repos\Asp.Net Core\CoreWeb\bin\Debug\netcoreapp2.0\CoreWeb.deps.json
+c:\users\xuejian\source\repos\Asp.Net Core\CoreWeb\bin\Debug\netcoreapp2.0\CoreWeb.runtimeconfig.json
+c:\users\xuejian\source\repos\Asp.Net Core\CoreWeb\bin\Debug\netcoreapp2.0\CoreWeb.runtimeconfig.dev.json
+c:\users\xuejian\source\repos\Asp.Net Core\CoreWeb\bin\Debug\netcoreapp2.0\CoreWeb.dll
+c:\users\xuejian\source\repos\Asp.Net Core\CoreWeb\bin\Debug\netcoreapp2.0\CoreWeb.pdb
+c:\users\xuejian\source\repos\Asp.Net Core\CoreWeb\obj\Debug\netcoreapp2.0\CoreWeb.csprojAssemblyReference.cache
+c:\users\xuejian\source\repos\Asp.Net Core\CoreWeb\obj\Debug\netcoreapp2.0\CoreWeb.csproj.CoreCompileInputs.cache
+c:\users\xuejian\source\repos\Asp.Net Core\CoreWeb\obj\Debug\netcoreapp2.0\CoreWeb.AssemblyInfoInputs.cache
+c:\users\xuejian\source\repos\Asp.Net Core\CoreWeb\obj\Debug\netcoreapp2.0\CoreWeb.AssemblyInfo.cs
+c:\users\xuejian\source\repos\Asp.Net Core\CoreWeb\obj\Debug\netcoreapp2.0\CoreWeb.dll
+c:\users\xuejian\source\repos\Asp.Net Core\CoreWeb\obj\Debug\netcoreapp2.0\CoreWeb.pdb

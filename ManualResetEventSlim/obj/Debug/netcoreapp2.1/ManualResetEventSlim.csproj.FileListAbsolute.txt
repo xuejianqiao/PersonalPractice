@@ -1,0 +1,10 @@
+D:\project\Asp.Net Core\ManualResetEventSlim\bin\Debug\netcoreapp2.1\ManualResetEventSlim.deps.json
+D:\project\Asp.Net Core\ManualResetEventSlim\bin\Debug\netcoreapp2.1\ManualResetEventSlim.runtimeconfig.json
+D:\project\Asp.Net Core\ManualResetEventSlim\bin\Debug\netcoreapp2.1\ManualResetEventSlim.runtimeconfig.dev.json
+D:\project\Asp.Net Core\ManualResetEventSlim\bin\Debug\netcoreapp2.1\ManualResetEventSlim.dll
+D:\project\Asp.Net Core\ManualResetEventSlim\bin\Debug\netcoreapp2.1\ManualResetEventSlim.pdb
+D:\project\Asp.Net Core\ManualResetEventSlim\obj\Debug\netcoreapp2.1\ManualResetEventSlim.csproj.CoreCompileInputs.cache
+D:\project\Asp.Net Core\ManualResetEventSlim\obj\Debug\netcoreapp2.1\ManualResetEventSlim.AssemblyInfoInputs.cache
+D:\project\Asp.Net Core\ManualResetEventSlim\obj\Debug\netcoreapp2.1\ManualResetEventSlim.AssemblyInfo.cs
+D:\project\Asp.Net Core\ManualResetEventSlim\obj\Debug\netcoreapp2.1\ManualResetEventSlim.dll
+D:\project\Asp.Net Core\ManualResetEventSlim\obj\Debug\netcoreapp2.1\ManualResetEventSlim.pdb

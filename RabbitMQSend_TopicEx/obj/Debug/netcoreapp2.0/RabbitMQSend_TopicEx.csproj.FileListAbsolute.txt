@@ -1,0 +1,11 @@
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_TopicEx\bin\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.deps.json
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_TopicEx\bin\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.runtimeconfig.json
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_TopicEx\bin\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.runtimeconfig.dev.json
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_TopicEx\bin\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.dll
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_TopicEx\obj\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.csproj.CoreCompileInputs.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_TopicEx\obj\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.AssemblyInfoInputs.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_TopicEx\obj\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.AssemblyInfo.cs
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_TopicEx\bin\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.pdb
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_TopicEx\obj\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.dll
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_TopicEx\obj\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.pdb
+C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_TopicEx\obj\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.csprojAssemblyReference.cache

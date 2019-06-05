@@ -1,0 +1,10 @@
+D:\project\Asp.Net Core\AutoResetEvent\bin\Debug\netcoreapp2.1\AutoResetEvent.deps.json
+D:\project\Asp.Net Core\AutoResetEvent\bin\Debug\netcoreapp2.1\AutoResetEvent.runtimeconfig.json
+D:\project\Asp.Net Core\AutoResetEvent\bin\Debug\netcoreapp2.1\AutoResetEvent.runtimeconfig.dev.json
+D:\project\Asp.Net Core\AutoResetEvent\bin\Debug\netcoreapp2.1\AutoResetEvent.dll
+D:\project\Asp.Net Core\AutoResetEvent\bin\Debug\netcoreapp2.1\AutoResetEvent.pdb
+D:\project\Asp.Net Core\AutoResetEvent\obj\Debug\netcoreapp2.1\AutoResetEvent.csproj.CoreCompileInputs.cache
+D:\project\Asp.Net Core\AutoResetEvent\obj\Debug\netcoreapp2.1\AutoResetEvent.AssemblyInfoInputs.cache
+D:\project\Asp.Net Core\AutoResetEvent\obj\Debug\netcoreapp2.1\AutoResetEvent.AssemblyInfo.cs
+D:\project\Asp.Net Core\AutoResetEvent\obj\Debug\netcoreapp2.1\AutoResetEvent.dll
+D:\project\Asp.Net Core\AutoResetEvent\obj\Debug\netcoreapp2.1\AutoResetEvent.pdb

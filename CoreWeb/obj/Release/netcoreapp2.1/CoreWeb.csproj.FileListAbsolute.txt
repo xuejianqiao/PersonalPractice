@@ -1,0 +1,11 @@
+C:\Users\xuejian\source\repos\Asp.Net Core\CoreWeb\bin\Release\netcoreapp2.1\CoreWeb.deps.json
+C:\Users\xuejian\source\repos\Asp.Net Core\CoreWeb\bin\Release\netcoreapp2.1\CoreWeb.runtimeconfig.json
+C:\Users\xuejian\source\repos\Asp.Net Core\CoreWeb\bin\Release\netcoreapp2.1\CoreWeb.runtimeconfig.dev.json
+C:\Users\xuejian\source\repos\Asp.Net Core\CoreWeb\bin\Release\netcoreapp2.1\CoreWeb.dll
+C:\Users\xuejian\source\repos\Asp.Net Core\CoreWeb\bin\Release\netcoreapp2.1\CoreWeb.pdb
+C:\Users\xuejian\source\repos\Asp.Net Core\CoreWeb\obj\Release\netcoreapp2.1\CoreWeb.csprojAssemblyReference.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\CoreWeb\obj\Release\netcoreapp2.1\CoreWeb.csproj.CoreCompileInputs.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\CoreWeb\obj\Release\netcoreapp2.1\CoreWeb.AssemblyInfoInputs.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\CoreWeb\obj\Release\netcoreapp2.1\CoreWeb.AssemblyInfo.cs
+C:\Users\xuejian\source\repos\Asp.Net Core\CoreWeb\obj\Release\netcoreapp2.1\CoreWeb.dll
+C:\Users\xuejian\source\repos\Asp.Net Core\CoreWeb\obj\Release\netcoreapp2.1\CoreWeb.pdb

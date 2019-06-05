@@ -1,0 +1,11 @@
+D:\project\Asp.Net Core\SemaphoreSlim\bin\Debug\netcoreapp2.1\SemaphoreSlim.deps.json
+D:\project\Asp.Net Core\SemaphoreSlim\bin\Debug\netcoreapp2.1\SemaphoreSlim.runtimeconfig.json
+D:\project\Asp.Net Core\SemaphoreSlim\bin\Debug\netcoreapp2.1\SemaphoreSlim.runtimeconfig.dev.json
+D:\project\Asp.Net Core\SemaphoreSlim\bin\Debug\netcoreapp2.1\SemaphoreSlim.dll
+D:\project\Asp.Net Core\SemaphoreSlim\bin\Debug\netcoreapp2.1\SemaphoreSlim.pdb
+D:\project\Asp.Net Core\SemaphoreSlim\obj\Debug\netcoreapp2.1\SemaphoreSlim.csprojAssemblyReference.cache
+D:\project\Asp.Net Core\SemaphoreSlim\obj\Debug\netcoreapp2.1\SemaphoreSlim.csproj.CoreCompileInputs.cache
+D:\project\Asp.Net Core\SemaphoreSlim\obj\Debug\netcoreapp2.1\SemaphoreSlim.AssemblyInfoInputs.cache
+D:\project\Asp.Net Core\SemaphoreSlim\obj\Debug\netcoreapp2.1\SemaphoreSlim.AssemblyInfo.cs
+D:\project\Asp.Net Core\SemaphoreSlim\obj\Debug\netcoreapp2.1\SemaphoreSlim.dll
+D:\project\Asp.Net Core\SemaphoreSlim\obj\Debug\netcoreapp2.1\SemaphoreSlim.pdb

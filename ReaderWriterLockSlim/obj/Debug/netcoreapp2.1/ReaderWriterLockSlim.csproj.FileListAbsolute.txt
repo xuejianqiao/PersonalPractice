@@ -1,0 +1,10 @@
+D:\project\Asp.Net Core\ReaderWriterLockSlim\bin\Debug\netcoreapp2.1\ReaderWriterLockSlim.deps.json
+D:\project\Asp.Net Core\ReaderWriterLockSlim\bin\Debug\netcoreapp2.1\ReaderWriterLockSlim.runtimeconfig.json
+D:\project\Asp.Net Core\ReaderWriterLockSlim\bin\Debug\netcoreapp2.1\ReaderWriterLockSlim.runtimeconfig.dev.json
+D:\project\Asp.Net Core\ReaderWriterLockSlim\bin\Debug\netcoreapp2.1\ReaderWriterLockSlim.dll
+D:\project\Asp.Net Core\ReaderWriterLockSlim\bin\Debug\netcoreapp2.1\ReaderWriterLockSlim.pdb
+D:\project\Asp.Net Core\ReaderWriterLockSlim\obj\Debug\netcoreapp2.1\ReaderWriterLockSlim.csproj.CoreCompileInputs.cache
+D:\project\Asp.Net Core\ReaderWriterLockSlim\obj\Debug\netcoreapp2.1\ReaderWriterLockSlim.AssemblyInfoInputs.cache
+D:\project\Asp.Net Core\ReaderWriterLockSlim\obj\Debug\netcoreapp2.1\ReaderWriterLockSlim.AssemblyInfo.cs
+D:\project\Asp.Net Core\ReaderWriterLockSlim\obj\Debug\netcoreapp2.1\ReaderWriterLockSlim.dll
+D:\project\Asp.Net Core\ReaderWriterLockSlim\obj\Debug\netcoreapp2.1\ReaderWriterLockSlim.pdb

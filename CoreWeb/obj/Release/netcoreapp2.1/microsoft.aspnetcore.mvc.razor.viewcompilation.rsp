@@ -1,0 +1,12 @@
+C:\Users\xuejian\source\repos\Asp.Net Core\CoreWeb
+--output-path=obj\Release\netcoreapp2.1\
+--application-name=CoreWeb
+--content-root=C:\Users\xuejian\source\repos\Asp.Net Core\CoreWeb
+--file=C:\Users\xuejian\source\repos\Asp.Net Core\CoreWeb\Views\Home\About.cshtml
+--file=C:\Users\xuejian\source\repos\Asp.Net Core\CoreWeb\Views\Home\Contact.cshtml
+--file=C:\Users\xuejian\source\repos\Asp.Net Core\CoreWeb\Views\Home\Index.cshtml
+--file=C:\Users\xuejian\source\repos\Asp.Net Core\CoreWeb\Views\Shared\Error.cshtml
+--file=C:\Users\xuejian\source\repos\Asp.Net Core\CoreWeb\Views\Shared\_Layout.cshtml
+--file=C:\Users\xuejian\source\repos\Asp.Net Core\CoreWeb\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\xuejian\source\repos\Asp.Net Core\CoreWeb\Views\_ViewImports.cshtml
+--file=C:\Users\xuejian\source\repos\Asp.Net Core\CoreWeb\Views\_ViewStart.cshtml

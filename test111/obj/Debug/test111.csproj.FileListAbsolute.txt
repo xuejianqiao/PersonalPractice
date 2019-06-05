@@ -1,0 +1,7 @@
+C:\Users\xuejian\source\repos\Asp.Net Core\test111\bin\Debug\test111.exe.config
+C:\Users\xuejian\source\repos\Asp.Net Core\test111\bin\Debug\test111.exe
+C:\Users\xuejian\source\repos\Asp.Net Core\test111\bin\Debug\test111.pdb
+C:\Users\xuejian\source\repos\Asp.Net Core\test111\obj\Debug\test111.csprojAssemblyReference.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\test111\obj\Debug\test111.csproj.CoreCompileInputs.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\test111\obj\Debug\test111.exe
+C:\Users\xuejian\source\repos\Asp.Net Core\test111\obj\Debug\test111.pdb

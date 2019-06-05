@@ -1,0 +1,10 @@
+D:\project\Asp.Net Core\Mutex\bin\Debug\netcoreapp2.1\Mutex Class.deps.json
+D:\project\Asp.Net Core\Mutex\bin\Debug\netcoreapp2.1\Mutex Class.runtimeconfig.json
+D:\project\Asp.Net Core\Mutex\bin\Debug\netcoreapp2.1\Mutex Class.runtimeconfig.dev.json
+D:\project\Asp.Net Core\Mutex\bin\Debug\netcoreapp2.1\Mutex Class.dll
+D:\project\Asp.Net Core\Mutex\bin\Debug\netcoreapp2.1\Mutex Class.pdb
+D:\project\Asp.Net Core\Mutex\obj\Debug\netcoreapp2.1\Mutex Class.csproj.CoreCompileInputs.cache
+D:\project\Asp.Net Core\Mutex\obj\Debug\netcoreapp2.1\Mutex Class.AssemblyInfoInputs.cache
+D:\project\Asp.Net Core\Mutex\obj\Debug\netcoreapp2.1\Mutex Class.AssemblyInfo.cs
+D:\project\Asp.Net Core\Mutex\obj\Debug\netcoreapp2.1\Mutex Class.dll
+D:\project\Asp.Net Core\Mutex\obj\Debug\netcoreapp2.1\Mutex Class.pdb

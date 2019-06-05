@@ -1,0 +1,6 @@
+C:\Users\xuejian\source\repos\Asp.Net Core\Unlity\bin\Debug\Unlity.dll
+C:\Users\xuejian\source\repos\Asp.Net Core\Unlity\bin\Debug\Unlity.pdb
+C:\Users\xuejian\source\repos\Asp.Net Core\Unlity\obj\Debug\Unlity.csproj.CoreCompileInputs.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\Unlity\obj\Debug\Unlity.dll
+C:\Users\xuejian\source\repos\Asp.Net Core\Unlity\obj\Debug\Unlity.pdb
+C:\Users\xuejian\source\repos\Asp.Net Core\Unlity\obj\Debug\Unlity.csprojAssemblyReference.cache

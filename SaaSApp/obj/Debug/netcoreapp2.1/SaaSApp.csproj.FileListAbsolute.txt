@@ -1,0 +1,14 @@
+C:\Users\xuejian\source\repos\Asp.Net Core\SaaSApp\obj\Debug\netcoreapp2.1\SaaSApp.csproj.CoreCompileInputs.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\SaaSApp\obj\Debug\netcoreapp2.1\SaaSApp.RazorAssemblyInfo.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\SaaSApp\bin\Debug\netcoreapp2.1\SaaSApp.deps.json
+C:\Users\xuejian\source\repos\Asp.Net Core\SaaSApp\bin\Debug\netcoreapp2.1\SaaSApp.runtimeconfig.json
+C:\Users\xuejian\source\repos\Asp.Net Core\SaaSApp\bin\Debug\netcoreapp2.1\SaaSApp.runtimeconfig.dev.json
+C:\Users\xuejian\source\repos\Asp.Net Core\SaaSApp\bin\Debug\netcoreapp2.1\SaaSApp.dll
+C:\Users\xuejian\source\repos\Asp.Net Core\SaaSApp\bin\Debug\netcoreapp2.1\SaaSApp.pdb
+C:\Users\xuejian\source\repos\Asp.Net Core\SaaSApp\obj\Debug\netcoreapp2.1\SaaSApp.RazorAssemblyInfo.cs
+C:\Users\xuejian\source\repos\Asp.Net Core\SaaSApp\obj\Debug\netcoreapp2.1\SaaSApp.AssemblyInfoInputs.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\SaaSApp\obj\Debug\netcoreapp2.1\SaaSApp.AssemblyInfo.cs
+C:\Users\xuejian\source\repos\Asp.Net Core\SaaSApp\obj\Debug\netcoreapp2.1\SaaSApp.RazorTargetAssemblyInfo.cache
+C:\Users\xuejian\source\repos\Asp.Net Core\SaaSApp\obj\Debug\netcoreapp2.1\SaaSApp.dll
+C:\Users\xuejian\source\repos\Asp.Net Core\SaaSApp\obj\Debug\netcoreapp2.1\SaaSApp.pdb
+C:\Users\xuejian\source\repos\Asp.Net Core\SaaSApp\obj\Debug\netcoreapp2.1\SaaSApp.csprojAssemblyReference.cache

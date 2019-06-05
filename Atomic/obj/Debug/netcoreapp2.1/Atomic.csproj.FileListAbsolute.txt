@@ -1,0 +1,11 @@
+D:\project\Asp.Net Core\Atomic\bin\Debug\netcoreapp2.1\Atomic.deps.json
+D:\project\Asp.Net Core\Atomic\bin\Debug\netcoreapp2.1\Atomic.runtimeconfig.json
+D:\project\Asp.Net Core\Atomic\bin\Debug\netcoreapp2.1\Atomic.runtimeconfig.dev.json
+D:\project\Asp.Net Core\Atomic\bin\Debug\netcoreapp2.1\Atomic.dll
+D:\project\Asp.Net Core\Atomic\bin\Debug\netcoreapp2.1\Atomic.pdb
+D:\project\Asp.Net Core\Atomic\obj\Debug\netcoreapp2.1\Atomic.csprojAssemblyReference.cache
+D:\project\Asp.Net Core\Atomic\obj\Debug\netcoreapp2.1\Atomic.csproj.CoreCompileInputs.cache
+D:\project\Asp.Net Core\Atomic\obj\Debug\netcoreapp2.1\Atomic.AssemblyInfoInputs.cache
+D:\project\Asp.Net Core\Atomic\obj\Debug\netcoreapp2.1\Atomic.AssemblyInfo.cs
+D:\project\Asp.Net Core\Atomic\obj\Debug\netcoreapp2.1\Atomic.dll
+D:\project\Asp.Net Core\Atomic\obj\Debug\netcoreapp2.1\Atomic.pdb

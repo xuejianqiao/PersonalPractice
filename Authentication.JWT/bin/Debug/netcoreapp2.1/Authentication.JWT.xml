@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Authentication.JWT</name>
+    </assembly>
+    <members>
+        <member name="M:Authentication.JWT.AuthHelper.Authentication.JwtFactory.ToUnixEpochDate(System.DateTime)">
+            <returns>Date converted to seconds since Unix epoch (Jan 1, 1970, midnight UTC).</returns>
+        </member>
+        <member name="P:Authentication.JWT.AuthHelper.Authentication.JwtIssuerOptions.Issuer">
+            <summary>
+            jwt签发者
+            </summary>
+        </member>
+        <member name="P:Authentication.JWT.AuthHelper.Authentication.JwtIssuerOptions.Subject">
+            <summary>
+            jwt所面向的用户
+            </summary>
+        </member>
+        <member name="P:Authentication.JWT.AuthHelper.Authentication.JwtIssuerOptions.Audience">
+            <summary>
+            接收jwt的一方
+            </summary>
+        </member>
+        <member name="P:Authentication.JWT.AuthHelper.Authentication.JwtIssuerOptions.Expiration">
+            <summary>
+            jwt的过期时间，这个过期时间必须要大于签发时间
+            </summary>
+        </member>
+        <member name="P:Authentication.JWT.AuthHelper.Authentication.JwtIssuerOptions.NotBefore">
+            <summary>
+            定义在什么时间之前，该jwt都是不可用的.
+            </summary>
+        </member>
+        <member name="P:Authentication.JWT.AuthHelper.Authentication.JwtIssuerOptions.IssuedAt">
+            <summary>
+             jwt的签发时间
+            </summary>
+        </member>
+        <member name="P:Authentication.JWT.AuthHelper.Authentication.JwtIssuerOptions.JtiGenerator">
+            <summary>
+            jwt的唯一身份标识，主要用来作为一次性token,从而回避重放攻击。
+            </summary>
+        </member>
+        <member name="P:Authentication.JWT.AuthHelper.Authentication.JwtIssuerOptions.SigningCredentials">
+            <summary>
+            token 签名配置
+            </summary>
+        </member>
+        <member name="M:Authentication.JWT.Controllers.AuthController.Login(Authentication.JWT.Contract.Request.LoginRequest)">
+            <summary>
+            Log in
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Authentication.JWT.Controllers.AuthController.GetUserInfo">
+            <summary>
+            Get User Info
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

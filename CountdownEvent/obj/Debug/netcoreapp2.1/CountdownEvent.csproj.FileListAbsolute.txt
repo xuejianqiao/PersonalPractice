@@ -1,0 +1,10 @@
+D:\project\Asp.Net Core\CountdownEvent\bin\Debug\netcoreapp2.1\CountdownEvent.deps.json
+D:\project\Asp.Net Core\CountdownEvent\bin\Debug\netcoreapp2.1\CountdownEvent.runtimeconfig.json
+D:\project\Asp.Net Core\CountdownEvent\bin\Debug\netcoreapp2.1\CountdownEvent.runtimeconfig.dev.json
+D:\project\Asp.Net Core\CountdownEvent\bin\Debug\netcoreapp2.1\CountdownEvent.dll
+D:\project\Asp.Net Core\CountdownEvent\bin\Debug\netcoreapp2.1\CountdownEvent.pdb
+D:\project\Asp.Net Core\CountdownEvent\obj\Debug\netcoreapp2.1\CountdownEvent.csproj.CoreCompileInputs.cache
+D:\project\Asp.Net Core\CountdownEvent\obj\Debug\netcoreapp2.1\CountdownEvent.AssemblyInfoInputs.cache
+D:\project\Asp.Net Core\CountdownEvent\obj\Debug\netcoreapp2.1\CountdownEvent.AssemblyInfo.cs
+D:\project\Asp.Net Core\CountdownEvent\obj\Debug\netcoreapp2.1\CountdownEvent.dll
+D:\project\Asp.Net Core\CountdownEvent\obj\Debug\netcoreapp2.1\CountdownEvent.pdb
