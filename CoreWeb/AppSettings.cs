@@ -11,14 +11,10 @@ namespace CoreWeb
     public class AppSettings : Singleton<AppSettings>
     {
         public IConfigurationRoot Config;
-        public IHttpContextAccessor _accessor;
+       
         public AppSettings() 
         {
 
-        }
-        public AppSettings(IHttpContextAccessor accessor)
-        {
-            _accessor = accessor;
         }
         public IConfigurationRoot GetConfigurationRoot(string jsonDir, string environmentName = null)
         {

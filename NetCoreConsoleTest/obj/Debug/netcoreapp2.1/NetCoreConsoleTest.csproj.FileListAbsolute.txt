@@ -1,0 +1,11 @@
+D:\project\PersonalPractice\NetCoreConsoleTest\obj\Debug\netcoreapp2.1\NetCoreConsoleTest.csproj.CoreCompileInputs.cache
+D:\project\PersonalPractice\NetCoreConsoleTest\obj\Debug\netcoreapp2.1\NetCoreConsoleTest.AssemblyInfoInputs.cache
+D:\project\PersonalPractice\NetCoreConsoleTest\obj\Debug\netcoreapp2.1\NetCoreConsoleTest.AssemblyInfo.cs
+D:\project\PersonalPractice\NetCoreConsoleTest\bin\Debug\netcoreapp2.1\NetCoreConsoleTest.deps.json
+D:\project\PersonalPractice\NetCoreConsoleTest\bin\Debug\netcoreapp2.1\NetCoreConsoleTest.runtimeconfig.json
+D:\project\PersonalPractice\NetCoreConsoleTest\bin\Debug\netcoreapp2.1\NetCoreConsoleTest.runtimeconfig.dev.json
+D:\project\PersonalPractice\NetCoreConsoleTest\bin\Debug\netcoreapp2.1\NetCoreConsoleTest.dll
+D:\project\PersonalPractice\NetCoreConsoleTest\bin\Debug\netcoreapp2.1\NetCoreConsoleTest.pdb
+D:\project\PersonalPractice\NetCoreConsoleTest\obj\Debug\netcoreapp2.1\NetCoreConsoleTest.dll
+D:\project\PersonalPractice\NetCoreConsoleTest\obj\Debug\netcoreapp2.1\NetCoreConsoleTest.pdb
+D:\project\PersonalPractice\NetCoreConsoleTest\obj\Debug\netcoreapp2.1\NetCoreConsoleTest.csprojAssemblyReference.cache

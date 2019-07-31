@@ -9,3 +9,14 @@ C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceive\bin\Debug\netcoreapp2
 C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceive\obj\Debug\netcoreapp2.0\RabbitMQReceive.dll
 C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceive\obj\Debug\netcoreapp2.0\RabbitMQReceive.pdb
 C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQReceive\obj\Debug\netcoreapp2.0\RabbitMQReceive.csprojAssemblyReference.cache
+D:\project\PersonalPractice\RabbitMQReceive\bin\Debug\netcoreapp2.0\RabbitMQReceive.deps.json
+D:\project\PersonalPractice\RabbitMQReceive\bin\Debug\netcoreapp2.0\RabbitMQReceive.runtimeconfig.json
+D:\project\PersonalPractice\RabbitMQReceive\bin\Debug\netcoreapp2.0\RabbitMQReceive.runtimeconfig.dev.json
+D:\project\PersonalPractice\RabbitMQReceive\bin\Debug\netcoreapp2.0\RabbitMQReceive.dll
+D:\project\PersonalPractice\RabbitMQReceive\bin\Debug\netcoreapp2.0\RabbitMQReceive.pdb
+D:\project\PersonalPractice\RabbitMQReceive\obj\Debug\netcoreapp2.0\RabbitMQReceive.csprojAssemblyReference.cache
+D:\project\PersonalPractice\RabbitMQReceive\obj\Debug\netcoreapp2.0\RabbitMQReceive.csproj.CoreCompileInputs.cache
+D:\project\PersonalPractice\RabbitMQReceive\obj\Debug\netcoreapp2.0\RabbitMQReceive.AssemblyInfoInputs.cache
+D:\project\PersonalPractice\RabbitMQReceive\obj\Debug\netcoreapp2.0\RabbitMQReceive.AssemblyInfo.cs
+D:\project\PersonalPractice\RabbitMQReceive\obj\Debug\netcoreapp2.0\RabbitMQReceive.dll
+D:\project\PersonalPractice\RabbitMQReceive\obj\Debug\netcoreapp2.0\RabbitMQReceive.pdb

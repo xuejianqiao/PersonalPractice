@@ -8,3 +8,14 @@ D:\project\Asp.Net Core\Barrier\obj\Debug\netcoreapp2.1\Barrier.AssemblyInfoInpu
 D:\project\Asp.Net Core\Barrier\obj\Debug\netcoreapp2.1\Barrier.AssemblyInfo.cs
 D:\project\Asp.Net Core\Barrier\obj\Debug\netcoreapp2.1\Barrier.dll
 D:\project\Asp.Net Core\Barrier\obj\Debug\netcoreapp2.1\Barrier.pdb
+D:\project\PersonalPractice\Barrier\bin\Debug\netcoreapp2.1\Barrier.deps.json
+D:\project\PersonalPractice\Barrier\bin\Debug\netcoreapp2.1\Barrier.runtimeconfig.json
+D:\project\PersonalPractice\Barrier\bin\Debug\netcoreapp2.1\Barrier.runtimeconfig.dev.json
+D:\project\PersonalPractice\Barrier\bin\Debug\netcoreapp2.1\Barrier.dll
+D:\project\PersonalPractice\Barrier\bin\Debug\netcoreapp2.1\Barrier.pdb
+D:\project\PersonalPractice\Barrier\obj\Debug\netcoreapp2.1\Barrier.csprojAssemblyReference.cache
+D:\project\PersonalPractice\Barrier\obj\Debug\netcoreapp2.1\Barrier.csproj.CoreCompileInputs.cache
+D:\project\PersonalPractice\Barrier\obj\Debug\netcoreapp2.1\Barrier.AssemblyInfoInputs.cache
+D:\project\PersonalPractice\Barrier\obj\Debug\netcoreapp2.1\Barrier.AssemblyInfo.cs
+D:\project\PersonalPractice\Barrier\obj\Debug\netcoreapp2.1\Barrier.dll
+D:\project\PersonalPractice\Barrier\obj\Debug\netcoreapp2.1\Barrier.pdb

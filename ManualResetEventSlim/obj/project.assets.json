@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project\\Asp.Net Core\\ManualResetEventSlim\\ManualResetEventSlim.csproj",
+      "projectUniqueName": "D:\\project\\PersonalPractice\\ManualResetEventSlim\\ManualResetEventSlim.csproj",
       "projectName": "ManualResetEventSlim",
-      "projectPath": "D:\\project\\Asp.Net Core\\ManualResetEventSlim\\ManualResetEventSlim.csproj",
+      "projectPath": "D:\\project\\PersonalPractice\\ManualResetEventSlim\\ManualResetEventSlim.csproj",
       "packagesPath": "C:\\Users\\xueji\\.nuget\\packages\\",
-      "outputPath": "D:\\project\\Asp.Net Core\\ManualResetEventSlim\\obj\\",
+      "outputPath": "D:\\project\\PersonalPractice\\ManualResetEventSlim\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -728,6 +728,7 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

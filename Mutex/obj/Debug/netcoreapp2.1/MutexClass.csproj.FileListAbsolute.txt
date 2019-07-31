@@ -9,3 +9,13 @@ D:\project\Asp.Net Core\Mutex\obj\Debug\netcoreapp2.1\MutexClass.AssemblyInfo.cs
 D:\project\Asp.Net Core\Mutex\obj\Debug\netcoreapp2.1\MutexClass.dll
 D:\project\Asp.Net Core\Mutex\obj\Debug\netcoreapp2.1\MutexClass.pdb
 D:\project\Asp.Net Core\Mutex\obj\Debug\netcoreapp2.1\MutexClass.csprojAssemblyReference.cache
+D:\project\PersonalPractice\Mutex\bin\Debug\netcoreapp2.1\MutexClass.deps.json
+D:\project\PersonalPractice\Mutex\bin\Debug\netcoreapp2.1\MutexClass.runtimeconfig.json
+D:\project\PersonalPractice\Mutex\bin\Debug\netcoreapp2.1\MutexClass.runtimeconfig.dev.json
+D:\project\PersonalPractice\Mutex\bin\Debug\netcoreapp2.1\MutexClass.dll
+D:\project\PersonalPractice\Mutex\bin\Debug\netcoreapp2.1\MutexClass.pdb
+D:\project\PersonalPractice\Mutex\obj\Debug\netcoreapp2.1\MutexClass.csproj.CoreCompileInputs.cache
+D:\project\PersonalPractice\Mutex\obj\Debug\netcoreapp2.1\MutexClass.AssemblyInfoInputs.cache
+D:\project\PersonalPractice\Mutex\obj\Debug\netcoreapp2.1\MutexClass.AssemblyInfo.cs
+D:\project\PersonalPractice\Mutex\obj\Debug\netcoreapp2.1\MutexClass.dll
+D:\project\PersonalPractice\Mutex\obj\Debug\netcoreapp2.1\MutexClass.pdb

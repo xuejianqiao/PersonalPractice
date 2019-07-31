@@ -12,3 +12,18 @@ D:\project\Asp.Net Core\Authentication.JWT\bin\Debug\netcoreapp2.1\Authenticatio
 D:\project\Asp.Net Core\Authentication.JWT\bin\Debug\netcoreapp2.1\Authentication.JWT.pdb
 D:\project\Asp.Net Core\Authentication.JWT\obj\Debug\netcoreapp2.1\Authentication.JWT.RazorTargetAssemblyInfo.cache
 D:\project\Asp.Net Core\Authentication.JWT\bin\Debug\netcoreapp2.1\Authentication.JWT.xml
+D:\project\PersonalPractice\Authentication.JWT\bin\Debug\netcoreapp2.1\Authentication.JWT.xml
+D:\project\PersonalPractice\Authentication.JWT\bin\Debug\netcoreapp2.1\Authentication.JWT.deps.json
+D:\project\PersonalPractice\Authentication.JWT\bin\Debug\netcoreapp2.1\Authentication.JWT.runtimeconfig.json
+D:\project\PersonalPractice\Authentication.JWT\bin\Debug\netcoreapp2.1\Authentication.JWT.runtimeconfig.dev.json
+D:\project\PersonalPractice\Authentication.JWT\bin\Debug\netcoreapp2.1\Authentication.JWT.dll
+D:\project\PersonalPractice\Authentication.JWT\bin\Debug\netcoreapp2.1\Authentication.JWT.pdb
+D:\project\PersonalPractice\Authentication.JWT\obj\Debug\netcoreapp2.1\Authentication.JWT.csprojAssemblyReference.cache
+D:\project\PersonalPractice\Authentication.JWT\obj\Debug\netcoreapp2.1\Authentication.JWT.csproj.CoreCompileInputs.cache
+D:\project\PersonalPractice\Authentication.JWT\obj\Debug\netcoreapp2.1\Authentication.JWT.RazorAssemblyInfo.cache
+D:\project\PersonalPractice\Authentication.JWT\obj\Debug\netcoreapp2.1\Authentication.JWT.RazorAssemblyInfo.cs
+D:\project\PersonalPractice\Authentication.JWT\obj\Debug\netcoreapp2.1\Authentication.JWT.AssemblyInfoInputs.cache
+D:\project\PersonalPractice\Authentication.JWT\obj\Debug\netcoreapp2.1\Authentication.JWT.AssemblyInfo.cs
+D:\project\PersonalPractice\Authentication.JWT\obj\Debug\netcoreapp2.1\Authentication.JWT.RazorTargetAssemblyInfo.cache
+D:\project\PersonalPractice\Authentication.JWT\obj\Debug\netcoreapp2.1\Authentication.JWT.dll
+D:\project\PersonalPractice\Authentication.JWT\obj\Debug\netcoreapp2.1\Authentication.JWT.pdb

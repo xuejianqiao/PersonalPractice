@@ -9,3 +9,14 @@ C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_TopicEx\bin\Debug\netcor
 C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_TopicEx\obj\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.dll
 C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_TopicEx\obj\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.pdb
 C:\Users\xuejian\source\repos\Asp.Net Core\RabbitMQSend_TopicEx\obj\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.csprojAssemblyReference.cache
+D:\project\PersonalPractice\RabbitMQSend_TopicEx\bin\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.deps.json
+D:\project\PersonalPractice\RabbitMQSend_TopicEx\bin\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.runtimeconfig.json
+D:\project\PersonalPractice\RabbitMQSend_TopicEx\bin\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.runtimeconfig.dev.json
+D:\project\PersonalPractice\RabbitMQSend_TopicEx\bin\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.dll
+D:\project\PersonalPractice\RabbitMQSend_TopicEx\bin\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.pdb
+D:\project\PersonalPractice\RabbitMQSend_TopicEx\obj\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.csprojAssemblyReference.cache
+D:\project\PersonalPractice\RabbitMQSend_TopicEx\obj\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.csproj.CoreCompileInputs.cache
+D:\project\PersonalPractice\RabbitMQSend_TopicEx\obj\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.AssemblyInfoInputs.cache
+D:\project\PersonalPractice\RabbitMQSend_TopicEx\obj\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.AssemblyInfo.cs
+D:\project\PersonalPractice\RabbitMQSend_TopicEx\obj\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.dll
+D:\project\PersonalPractice\RabbitMQSend_TopicEx\obj\Debug\netcoreapp2.0\RabbitMQSend_TopicEx.pdb

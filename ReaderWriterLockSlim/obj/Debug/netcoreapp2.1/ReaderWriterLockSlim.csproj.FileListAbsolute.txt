@@ -8,3 +8,14 @@ D:\project\Asp.Net Core\ReaderWriterLockSlim\obj\Debug\netcoreapp2.1\ReaderWrite
 D:\project\Asp.Net Core\ReaderWriterLockSlim\obj\Debug\netcoreapp2.1\ReaderWriterLockSlim.AssemblyInfo.cs
 D:\project\Asp.Net Core\ReaderWriterLockSlim\obj\Debug\netcoreapp2.1\ReaderWriterLockSlim.dll
 D:\project\Asp.Net Core\ReaderWriterLockSlim\obj\Debug\netcoreapp2.1\ReaderWriterLockSlim.pdb
+D:\project\PersonalPractice\ReaderWriterLockSlim\bin\Debug\netcoreapp2.1\ReaderWriterLockSlim.deps.json
+D:\project\PersonalPractice\ReaderWriterLockSlim\bin\Debug\netcoreapp2.1\ReaderWriterLockSlim.runtimeconfig.json
+D:\project\PersonalPractice\ReaderWriterLockSlim\bin\Debug\netcoreapp2.1\ReaderWriterLockSlim.runtimeconfig.dev.json
+D:\project\PersonalPractice\ReaderWriterLockSlim\bin\Debug\netcoreapp2.1\ReaderWriterLockSlim.dll
+D:\project\PersonalPractice\ReaderWriterLockSlim\bin\Debug\netcoreapp2.1\ReaderWriterLockSlim.pdb
+D:\project\PersonalPractice\ReaderWriterLockSlim\obj\Debug\netcoreapp2.1\ReaderWriterLockSlim.csprojAssemblyReference.cache
+D:\project\PersonalPractice\ReaderWriterLockSlim\obj\Debug\netcoreapp2.1\ReaderWriterLockSlim.csproj.CoreCompileInputs.cache
+D:\project\PersonalPractice\ReaderWriterLockSlim\obj\Debug\netcoreapp2.1\ReaderWriterLockSlim.AssemblyInfoInputs.cache
+D:\project\PersonalPractice\ReaderWriterLockSlim\obj\Debug\netcoreapp2.1\ReaderWriterLockSlim.AssemblyInfo.cs
+D:\project\PersonalPractice\ReaderWriterLockSlim\obj\Debug\netcoreapp2.1\ReaderWriterLockSlim.dll
+D:\project\PersonalPractice\ReaderWriterLockSlim\obj\Debug\netcoreapp2.1\ReaderWriterLockSlim.pdb

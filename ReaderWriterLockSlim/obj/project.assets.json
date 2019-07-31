@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project\\Asp.Net Core\\ReaderWriterLockSlim\\ReaderWriterLockSlim.csproj",
+      "projectUniqueName": "D:\\project\\PersonalPractice\\ReaderWriterLockSlim\\ReaderWriterLockSlim.csproj",
       "projectName": "ReaderWriterLockSlim",
-      "projectPath": "D:\\project\\Asp.Net Core\\ReaderWriterLockSlim\\ReaderWriterLockSlim.csproj",
+      "projectPath": "D:\\project\\PersonalPractice\\ReaderWriterLockSlim\\ReaderWriterLockSlim.csproj",
       "packagesPath": "C:\\Users\\xueji\\.nuget\\packages\\",
-      "outputPath": "D:\\project\\Asp.Net Core\\ReaderWriterLockSlim\\obj\\",
+      "outputPath": "D:\\project\\PersonalPractice\\ReaderWriterLockSlim\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -728,6 +728,7 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

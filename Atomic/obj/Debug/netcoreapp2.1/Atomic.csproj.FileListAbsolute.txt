@@ -9,3 +9,14 @@ D:\project\Asp.Net Core\Atomic\obj\Debug\netcoreapp2.1\Atomic.AssemblyInfoInputs
 D:\project\Asp.Net Core\Atomic\obj\Debug\netcoreapp2.1\Atomic.AssemblyInfo.cs
 D:\project\Asp.Net Core\Atomic\obj\Debug\netcoreapp2.1\Atomic.dll
 D:\project\Asp.Net Core\Atomic\obj\Debug\netcoreapp2.1\Atomic.pdb
+D:\project\PersonalPractice\Atomic\bin\Debug\netcoreapp2.1\Atomic.deps.json
+D:\project\PersonalPractice\Atomic\bin\Debug\netcoreapp2.1\Atomic.runtimeconfig.json
+D:\project\PersonalPractice\Atomic\bin\Debug\netcoreapp2.1\Atomic.runtimeconfig.dev.json
+D:\project\PersonalPractice\Atomic\bin\Debug\netcoreapp2.1\Atomic.dll
+D:\project\PersonalPractice\Atomic\bin\Debug\netcoreapp2.1\Atomic.pdb
+D:\project\PersonalPractice\Atomic\obj\Debug\netcoreapp2.1\Atomic.csprojAssemblyReference.cache
+D:\project\PersonalPractice\Atomic\obj\Debug\netcoreapp2.1\Atomic.csproj.CoreCompileInputs.cache
+D:\project\PersonalPractice\Atomic\obj\Debug\netcoreapp2.1\Atomic.AssemblyInfoInputs.cache
+D:\project\PersonalPractice\Atomic\obj\Debug\netcoreapp2.1\Atomic.AssemblyInfo.cs
+D:\project\PersonalPractice\Atomic\obj\Debug\netcoreapp2.1\Atomic.dll
+D:\project\PersonalPractice\Atomic\obj\Debug\netcoreapp2.1\Atomic.pdb

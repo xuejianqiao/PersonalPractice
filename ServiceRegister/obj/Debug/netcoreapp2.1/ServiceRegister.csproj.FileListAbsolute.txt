@@ -13,3 +13,18 @@ D:\project\Asp.Net Core\ServiceRegister\bin\Debug\netcoreapp2.1\ServiceRegister.
 D:\project\Asp.Net Core\ServiceRegister\obj\Debug\netcoreapp2.1\ServiceRegister.dll
 D:\project\Asp.Net Core\ServiceRegister\obj\Debug\netcoreapp2.1\ServiceRegister.xml
 D:\project\Asp.Net Core\ServiceRegister\obj\Debug\netcoreapp2.1\ServiceRegister.pdb
+D:\project\PersonalPractice\ServiceRegister\bin\Debug\netcoreapp2.1\ServiceRegister.deps.json
+D:\project\PersonalPractice\ServiceRegister\bin\Debug\netcoreapp2.1\ServiceRegister.runtimeconfig.json
+D:\project\PersonalPractice\ServiceRegister\bin\Debug\netcoreapp2.1\ServiceRegister.runtimeconfig.dev.json
+D:\project\PersonalPractice\ServiceRegister\bin\Debug\netcoreapp2.1\ServiceRegister.dll
+D:\project\PersonalPractice\ServiceRegister\bin\Debug\netcoreapp2.1\ServiceRegister.pdb
+D:\project\PersonalPractice\ServiceRegister\bin\Debug\netcoreapp2.1\ServiceRegister.xml
+D:\project\PersonalPractice\ServiceRegister\obj\Debug\netcoreapp2.1\ServiceRegister.csproj.CoreCompileInputs.cache
+D:\project\PersonalPractice\ServiceRegister\obj\Debug\netcoreapp2.1\ServiceRegister.RazorAssemblyInfo.cache
+D:\project\PersonalPractice\ServiceRegister\obj\Debug\netcoreapp2.1\ServiceRegister.RazorAssemblyInfo.cs
+D:\project\PersonalPractice\ServiceRegister\obj\Debug\netcoreapp2.1\ServiceRegister.AssemblyInfoInputs.cache
+D:\project\PersonalPractice\ServiceRegister\obj\Debug\netcoreapp2.1\ServiceRegister.AssemblyInfo.cs
+D:\project\PersonalPractice\ServiceRegister\obj\Debug\netcoreapp2.1\ServiceRegister.RazorTargetAssemblyInfo.cache
+D:\project\PersonalPractice\ServiceRegister\obj\Debug\netcoreapp2.1\ServiceRegister.dll
+D:\project\PersonalPractice\ServiceRegister\obj\Debug\netcoreapp2.1\ServiceRegister.xml
+D:\project\PersonalPractice\ServiceRegister\obj\Debug\netcoreapp2.1\ServiceRegister.pdb

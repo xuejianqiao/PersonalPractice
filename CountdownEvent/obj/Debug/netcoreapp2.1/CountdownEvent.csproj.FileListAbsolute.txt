@@ -8,3 +8,14 @@ D:\project\Asp.Net Core\CountdownEvent\obj\Debug\netcoreapp2.1\CountdownEvent.As
 D:\project\Asp.Net Core\CountdownEvent\obj\Debug\netcoreapp2.1\CountdownEvent.AssemblyInfo.cs
 D:\project\Asp.Net Core\CountdownEvent\obj\Debug\netcoreapp2.1\CountdownEvent.dll
 D:\project\Asp.Net Core\CountdownEvent\obj\Debug\netcoreapp2.1\CountdownEvent.pdb
+D:\project\PersonalPractice\CountdownEvent\bin\Debug\netcoreapp2.1\CountdownEvent.deps.json
+D:\project\PersonalPractice\CountdownEvent\bin\Debug\netcoreapp2.1\CountdownEvent.runtimeconfig.json
+D:\project\PersonalPractice\CountdownEvent\bin\Debug\netcoreapp2.1\CountdownEvent.runtimeconfig.dev.json
+D:\project\PersonalPractice\CountdownEvent\bin\Debug\netcoreapp2.1\CountdownEvent.dll
+D:\project\PersonalPractice\CountdownEvent\bin\Debug\netcoreapp2.1\CountdownEvent.pdb
+D:\project\PersonalPractice\CountdownEvent\obj\Debug\netcoreapp2.1\CountdownEvent.csprojAssemblyReference.cache
+D:\project\PersonalPractice\CountdownEvent\obj\Debug\netcoreapp2.1\CountdownEvent.csproj.CoreCompileInputs.cache
+D:\project\PersonalPractice\CountdownEvent\obj\Debug\netcoreapp2.1\CountdownEvent.AssemblyInfoInputs.cache
+D:\project\PersonalPractice\CountdownEvent\obj\Debug\netcoreapp2.1\CountdownEvent.AssemblyInfo.cs
+D:\project\PersonalPractice\CountdownEvent\obj\Debug\netcoreapp2.1\CountdownEvent.dll
+D:\project\PersonalPractice\CountdownEvent\obj\Debug\netcoreapp2.1\CountdownEvent.pdb

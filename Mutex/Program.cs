@@ -5,39 +5,61 @@ namespace MutexClass
 { 
     class Program
     {
-        private static Mutex mutex = null;  //设为Static成员，是为了在整个程序生命周期内持有Mutex
+       /* private static Mutex mutex = null; */ //设为Static成员，是为了在整个程序生命周期内持有Mutex
 
         static void Main()
         {
-            bool firstInstance;
-            mutex = new Mutex(true, @"Global\MutexSampleApp", out firstInstance);
-            try
-            {
-                if (!firstInstance)
-                {
-
-                    Console.WriteLine("已有实例运行，输入回车退出……");
-                    Console.ReadLine();
-                    return;
-
-                }
-                else
-                {
-                    Console.WriteLine("我们是第一个实例！");
-                    Thread.Sleep(10000);
-                }
+            for (int i= 0;i<2;i++) {
+                var a = i.ToString();
+                Thread th = new Thread(()=>TestMutex.Get(a));
+                th.Start();
             }
-            finally
-            {
-                if (firstInstance)
-                {
-
-                    mutex.ReleaseMutex();
-
-                }
-                mutex.Close();
-                mutex = null;
-            }
+            Console.ReadLine();
         }
+    }
+
+
+    
+    public  class TestMutex
+    {
+
+       private  const string MutexName = @"MutexSampleApp";
+
+
+        public static void  Get(string name)
+        {
+            using (Mutex mutex = new Mutex(false, MutexName))
+            {
+                bool conrol = mutex.WaitOne(TimeSpan.FromSeconds(10), false);
+                try
+                {
+                    if (conrol)
+                    {
+                        Thread.Sleep(20000);
+                        Console.WriteLine(name + "获取到信号量");
+                    }
+                    else
+                    {
+                        Console.WriteLine(name + "没有获取到信号量");
+                    }
+                }
+                catch (Exception ex)
+                {
+
+
+                }
+                finally
+                {
+                    if (conrol)
+                    {
+                        mutex.ReleaseMutex();
+                    }
+                    //mutex.Close();
+                }
+            }
+           
+        }
+
+
     }
 }

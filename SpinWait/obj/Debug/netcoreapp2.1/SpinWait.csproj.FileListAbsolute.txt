@@ -1,0 +1,11 @@
+D:\project\PersonalPractice\SpinWait\bin\Debug\netcoreapp2.1\SpinWait.deps.json
+D:\project\PersonalPractice\SpinWait\bin\Debug\netcoreapp2.1\SpinWait.runtimeconfig.json
+D:\project\PersonalPractice\SpinWait\bin\Debug\netcoreapp2.1\SpinWait.runtimeconfig.dev.json
+D:\project\PersonalPractice\SpinWait\bin\Debug\netcoreapp2.1\SpinWait.dll
+D:\project\PersonalPractice\SpinWait\bin\Debug\netcoreapp2.1\SpinWait.pdb
+D:\project\PersonalPractice\SpinWait\obj\Debug\netcoreapp2.1\SpinWait.csprojAssemblyReference.cache
+D:\project\PersonalPractice\SpinWait\obj\Debug\netcoreapp2.1\SpinWait.csproj.CoreCompileInputs.cache
+D:\project\PersonalPractice\SpinWait\obj\Debug\netcoreapp2.1\SpinWait.AssemblyInfoInputs.cache
+D:\project\PersonalPractice\SpinWait\obj\Debug\netcoreapp2.1\SpinWait.AssemblyInfo.cs
+D:\project\PersonalPractice\SpinWait\obj\Debug\netcoreapp2.1\SpinWait.dll
+D:\project\PersonalPractice\SpinWait\obj\Debug\netcoreapp2.1\SpinWait.pdb

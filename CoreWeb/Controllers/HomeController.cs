@@ -82,11 +82,14 @@ namespace CoreWeb.Controllers
 
 
 
-        /// <summary>
-        /// 导出HTML为Excel文件
-        /// </summary>
-        /// <param name="dicSheet">导出内容：key是SheetName，Value是HTML代码</param>
-        /// <param name="fileTitle">文件名</param>
+       public void TestDic()
+        {
+
+            var a = AppDomain.CurrentDomain.BaseDirectory;
+
+        
+
+        }
 
 
 

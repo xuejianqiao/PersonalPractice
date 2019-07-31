@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project\\Asp.Net Core\\Atomic\\Atomic.csproj",
+      "projectUniqueName": "D:\\project\\PersonalPractice\\Atomic\\Atomic.csproj",
       "projectName": "Atomic",
-      "projectPath": "D:\\project\\Asp.Net Core\\Atomic\\Atomic.csproj",
+      "projectPath": "D:\\project\\PersonalPractice\\Atomic\\Atomic.csproj",
       "packagesPath": "C:\\Users\\xueji\\.nuget\\packages\\",
-      "outputPath": "D:\\project\\Asp.Net Core\\Atomic\\obj\\",
+      "outputPath": "D:\\project\\PersonalPractice\\Atomic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -728,6 +728,7 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

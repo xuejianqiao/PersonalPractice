@@ -10,13 +10,10 @@ namespace CoreWeb
     {
         private static SingletonConfig instance = null;
         private static readonly object padlock = new object();
-        public IHttpContextAccessor _accessor;
+       
         SingletonConfig() { }
 
-        public SingletonConfig(IHttpContextAccessor accessor)
-        {
-            _accessor = accessor;
-        }
+       
         public static SingletonConfig Instance
         {
             get

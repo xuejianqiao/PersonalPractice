@@ -1,0 +1,14 @@
+D:\project\PersonalPractice\Core.EF.MySql\bin\Debug\netcoreapp2.1\Core.EF.MySql.deps.json
+D:\project\PersonalPractice\Core.EF.MySql\bin\Debug\netcoreapp2.1\Core.EF.MySql.runtimeconfig.json
+D:\project\PersonalPractice\Core.EF.MySql\bin\Debug\netcoreapp2.1\Core.EF.MySql.runtimeconfig.dev.json
+D:\project\PersonalPractice\Core.EF.MySql\bin\Debug\netcoreapp2.1\Core.EF.MySql.dll
+D:\project\PersonalPractice\Core.EF.MySql\obj\Debug\netcoreapp2.1\Core.EF.MySql.csproj.CoreCompileInputs.cache
+D:\project\PersonalPractice\Core.EF.MySql\obj\Debug\netcoreapp2.1\Core.EF.MySql.RazorAssemblyInfo.cache
+D:\project\PersonalPractice\Core.EF.MySql\obj\Debug\netcoreapp2.1\Core.EF.MySql.RazorAssemblyInfo.cs
+D:\project\PersonalPractice\Core.EF.MySql\obj\Debug\netcoreapp2.1\Core.EF.MySql.AssemblyInfoInputs.cache
+D:\project\PersonalPractice\Core.EF.MySql\obj\Debug\netcoreapp2.1\Core.EF.MySql.AssemblyInfo.cs
+D:\project\PersonalPractice\Core.EF.MySql\obj\Debug\netcoreapp2.1\Core.EF.MySql.RazorTargetAssemblyInfo.cache
+D:\project\PersonalPractice\Core.EF.MySql\bin\Debug\netcoreapp2.1\Core.EF.MySql.pdb
+D:\project\PersonalPractice\Core.EF.MySql\obj\Debug\netcoreapp2.1\Core.EF.MySql.dll
+D:\project\PersonalPractice\Core.EF.MySql\obj\Debug\netcoreapp2.1\Core.EF.MySql.pdb
+D:\project\PersonalPractice\Core.EF.MySql\obj\Debug\netcoreapp2.1\Core.EF.MySql.csprojAssemblyReference.cache

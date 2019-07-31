@@ -24,7 +24,6 @@ namespace CoreWeb
 
             //读取配置信息
             AppSettings.Instance.GetConfigurationRoot(env.ContentRootPath,env.EnvironmentName);
-           
         }
 
         public IConfiguration Configuration { get; }
@@ -71,6 +70,8 @@ namespace CoreWeb
             {
                 o.RegisterValidatorsFromAssemblyContaining<BaseRequestValidate>();
             }); ;
+
+            
         }
 
         

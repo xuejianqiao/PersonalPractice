@@ -4,3 +4,9 @@ C:\Users\xuejian\source\repos\Asp.Net Core\Unlity\obj\Debug\Unlity.csproj.CoreCo
 C:\Users\xuejian\source\repos\Asp.Net Core\Unlity\obj\Debug\Unlity.dll
 C:\Users\xuejian\source\repos\Asp.Net Core\Unlity\obj\Debug\Unlity.pdb
 C:\Users\xuejian\source\repos\Asp.Net Core\Unlity\obj\Debug\Unlity.csprojAssemblyReference.cache
+D:\project\PersonalPractice\Unlity\bin\Debug\Unlity.dll
+D:\project\PersonalPractice\Unlity\bin\Debug\Unlity.pdb
+D:\project\PersonalPractice\Unlity\obj\Debug\Unlity.csprojAssemblyReference.cache
+D:\project\PersonalPractice\Unlity\obj\Debug\Unlity.csproj.CoreCompileInputs.cache
+D:\project\PersonalPractice\Unlity\obj\Debug\Unlity.dll
+D:\project\PersonalPractice\Unlity\obj\Debug\Unlity.pdb
